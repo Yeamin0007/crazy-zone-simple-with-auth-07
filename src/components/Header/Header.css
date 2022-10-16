@@ -7,13 +7,18 @@
     padding-left: 140px;
     padding-right: 140px;
 }
+.head-name{
+    font-size: 40px
+}
+.crazy{
+    color: blueviolet;
+}
 
 .header a{
-    color: #FFFFFF;
+    color:aliceblue;
     text-decoration: none;
-    font-size: 17px;
     margin-left: 36px;
 }
 .header a:hover{
-    color: orange;
+    color: blueviolet;
 }

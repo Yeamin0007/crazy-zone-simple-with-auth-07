@@ -28,7 +28,7 @@
 }
 .btn-cart{
     width: 100%;
-    background: #FFE0B3;
+    background: rgb(182, 119, 240);
     border: none;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
@@ -38,8 +38,12 @@
     justify-content: center;
 }
 .btn-cart .btn-text{
+    color: aliceblue;
     margin-right: 5px;
 }
 .btn-cart:hover{
-    background-color: orange;
+    background-color:#1C2B35;
+}
+.font-aws{
+    color: aliceblue;
 }
